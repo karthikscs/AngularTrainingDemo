@@ -1,0 +1,55 @@
+/*!
+
+ =========================================================
+ * Simplecodestuffs-training-demo Angular - v1.4.0
+ =========================================================
+
+ * Product Page: https://www.simplecodestuffs.com/product/simplecodestuffs-training-demo-2-angular
+ * Copyright 2021 Simplecodestuffs (https://www.simplecodestuffs.com)
+ * Licensed under MIT (https://github.com/timcreative/simplecodestuffs-training-demo/blob/master/LICENSE.md)
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
+
+@import "simplecodestuffs-training-demo/variables";
+@import "simplecodestuffs-training-demo/mixins";
+
+@import "simplecodestuffs-training-demo/typography";
+
+// Core CSS
+@import "simplecodestuffs-training-demo/misc";
+@import "simplecodestuffs-training-demo/buttons";
+@import "simplecodestuffs-training-demo/inputs";
+@import "simplecodestuffs-training-demo/progress-bars";
+@import "simplecodestuffs-training-demo/sliders";
+@import "simplecodestuffs-training-demo/alerts";
+@import "simplecodestuffs-training-demo/labels";
+@import "simplecodestuffs-training-demo/tooltips-and-popovers";
+@import "simplecodestuffs-training-demo/sections";
+@import "simplecodestuffs-training-demo/checkbox-radio";
+@import "simplecodestuffs-training-demo/navbars";
+@import "simplecodestuffs-training-demo/images";
+@import "simplecodestuffs-training-demo/cards";
+@import "simplecodestuffs-training-demo/footers";
+
+
+// Bootstrap Switch
+@import "simplecodestuffs-training-demo/bootstrap-switch";
+
+// Fancy Stuff
+@import "simplecodestuffs-training-demo/dropdown";
+//
+// icons
+@import "simplecodestuffs-training-demo/icons";
+//
+@import "simplecodestuffs-training-demo/tabs-navs-pagination";
+@import "simplecodestuffs-training-demo/collapse";
+@import "simplecodestuffs-training-demo/carousel";
+@import "simplecodestuffs-training-demo/modal";
+//
+@import "simplecodestuffs-training-demo/responsive";
+@import "simplecodestuffs-training-demo/plugins/datetimepicker";
+@import "simplecodestuffs-training-demo/social-buttons";
+@import "simplecodestuffs-training-demo/examples";
