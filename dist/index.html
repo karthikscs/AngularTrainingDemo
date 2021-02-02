@@ -4,7 +4,7 @@
  * Simplecodestuffs-training-demo Angular - v1.4.0
  =========================================================
 
- * Product Page: https://www.simplecodestuffs.com/product/simplecodestuffs-training-demo-2-angular
+ * Product Page: https://www.thangamanistores.com/product/simplecodestuffs-training-demo-2-angular
  * Copyright 2020 Simplecodestuffs (https://www.simplecodestuffs.com)
  * Licensed under MIT (https://github.com/timcreative/simplecodestuffs-training-demo/blob/master/LICENSE.md)
 
